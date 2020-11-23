@@ -6,7 +6,7 @@
 
 > You can see the progress demo [here](https://profile-card-component-main-mu.vercel.app/) 🚀
 
-Hi this is my solution to the challenge `Profile card component` of [Frontend Mentor](https://www.frontendmentor.io)
+Hi, this is my solution to the challenge `Profile card component` of [Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
 To do this challenge, I need a basic understanding of HTML and CSS. Following the style guide provided `style-guide.md`.
 
