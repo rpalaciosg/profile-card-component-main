@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-> Solución en progreso
+> Puedes ver la DEMO de la Solución en progreso [aquí](https://profile-card-component-main-mu.vercel.app/)
 
 Hola esta es mi solución del desafio `Profile card component` de [Frontend Mentor](https://www.frontendmentor.io)
 
@@ -16,7 +16,6 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Puedes ver mi 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
