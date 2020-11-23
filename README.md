@@ -4,6 +4,8 @@
 
 ## Welcome! 👋
 
+> Solución en progreso
+
 Hola esta es mi solución del desafio `Profile card component` de [Frontend Mentor](https://www.frontendmentor.io)
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
